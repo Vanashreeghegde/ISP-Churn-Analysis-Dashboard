@@ -81,7 +81,7 @@ Dashboard allows dynamic filtering and real-time KPI updates.
 
 ## 📊 Dashboard Preview
 
-![ISP Churn Dashboard](dashboard.png)
+![ISP Churn Dashboard](output.jpeg)
 
 
 ## 💡 Business Recommendations
